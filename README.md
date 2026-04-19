@@ -9,9 +9,9 @@
 | Dataset ID | `926573` |
 | Location | California |
 | Category | Restaurants |
-| Full dataset size | 728 records |
-| Free sample size | 72 records (9.89%) |
-| Last export | 2026-04-08T07:57:28.724187+00:00 |
+| Full dataset size | 720 records |
+| Free sample size | 72 records (10.0%) |
+| Last export | 2026-04-15T11:07:56.514382+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-tiktok-renegades-in-california-us-sample-926573/releases/download/sample-latest/beamstation_926573_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
