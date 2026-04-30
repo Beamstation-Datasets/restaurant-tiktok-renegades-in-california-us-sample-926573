@@ -1,12 +1,12 @@
 {
-  "export_job_id": "87e55615-d936-4629-962f-4244dee5bd1b",
+  "export_job_id": "b0f96b4a-1797-46a3-9100-0788811490c5",
   "id_short": 926573,
-  "published_at": "2026-04-23T07:34:40Z",
+  "published_at": "2026-04-30T07:44:06Z",
   "repo_name": "restaurant-tiktok-renegades-in-california-us-sample-926573",
   "sample_asset_name": "beamstation_926573_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/926573/beamstation_926573_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 60,
-  "sample_sha256": "82cdd271bcce061fd325a7eba103ddcb29f697c30061f07dfc44b1a60f3105d1",
-  "sample_size_bytes": 257306,
-  "total_records": 608
+  "sample_records": 59,
+  "sample_sha256": "5bcb6b0257718c9ab451365f9cb076f3890a94ab687052bcc0fa515df89a89e4",
+  "sample_size_bytes": 247688,
+  "total_records": 592
 }
